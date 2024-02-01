@@ -1,4 +1,7 @@
-![Screenshot](cert_flow.png)
+<p align="center">
+  <img src="cert_flow.png" width="450" title="Certificaton Path">
+  <img src="google.png" width="450" title="Google Data Analytics Certified">
+</p>
 
 
 ------------------------------------------------------------------
