@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="cert_flow.png" width="450" title="Certificaton Path">
-  <img src="google.png" width="450" title="Google Data Analytics Certified">
+  <img src="cert_flow.png" width="450" title="Certificaton Path"></p>
+<p align="center"> 
+  <img src="https://github.com/araderberg/Certificates/blob/main/google.png" width="350" title="Google Data Analytics Certification-2024">
+  <img src="https://github.com/araderberg/Certificates/blob/main/google_auto.png" width="350" title="Google IT Automation with Python Certification-2024">
 </p>
-
 
 ------------------------------------------------------------------
 👋 Hi, I’m @araderberg
